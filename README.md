@@ -2,7 +2,7 @@
 一张图系列
 会慢慢总结各种知识图谱
 
-[MySql](mysql)
+[MySql知识体系](mysql)
 
 Redis
 
